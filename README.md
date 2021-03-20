@@ -1,4 +1,4 @@
-## Sample of the Ant Colony Algorithm
+## Sample of the Genetic Algorithm
 The program solves a simple problem, that is minimizing the value of a simple function $f(x1,x2)=21.5+x_1*sin(4\pi x_1)+x_2*sin(20\pi x_2)$
 
 ![f(x1,x2)](README.assets/f(x1,x2)-1616050406355.png)
@@ -7,7 +7,7 @@ The program solves a simple problem, that is minimizing the value of a simple fu
 
 Modify the main function allows you to change the parameters of the algorithm
 
-The constructor of class AntColonyAlgo accepts seven parameters:
+The constructor of class GeneticAlgo accepts seven parameters:
 
 
 
